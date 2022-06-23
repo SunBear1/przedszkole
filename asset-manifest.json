@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/przedszkole/static/css/main.2cbc5eea.css",
+    "main.js": "/przedszkole/static/js/main.af1915b2.js",
+    "static/js/787.00a70a93.chunk.js": "/przedszkole/static/js/787.00a70a93.chunk.js",
+    "static/media/video.mp4": "/przedszkole/static/media/video.6e60d9e6917b54f83463.mp4",
+    "static/media/monte.svg": "/przedszkole/static/media/monte.d9b78198706167a4c7326de509d4f266.svg",
+    "static/media/logo.svg": "/przedszkole/static/media/logo.0180fad5f9e88a4a8ee530dba7c1478b.svg",
+    "static/media/cennik.svg": "/przedszkole/static/media/cennik.94981f2c4a96f55a94a84d52691b65e0.svg",
+    "static/media/oferta-zajec-fizjoterapia.svg": "/przedszkole/static/media/oferta-zajec-fizjoterapia.70c9008010aa3c1036fe5eb21fe75575.svg",
+    "static/media/oferta-zajec-adaptacja.svg": "/przedszkole/static/media/oferta-zajec-adaptacja.02ce0545aca8d98075cd9bd6ebfca8dd.svg",
+    "static/media/oferta-zajec-jezyki.svg": "/przedszkole/static/media/oferta-zajec-jezyki.6f7f8f5445fab0e3b7cdb8fda8c88038.svg",
+    "static/media/galeria.svg": "/przedszkole/static/media/galeria.ac668e778dafebb5368695d9182da3f1.svg",
+    "static/media/contact.svg": "/przedszkole/static/media/contact.483e2a62a938d9ef4bc700a073d4962b.svg",
+    "static/media/oferta-zajec-kulinaria.svg": "/przedszkole/static/media/oferta-zajec-kulinaria.6a9d690e58d9a988b6d55669755551d0.svg",
+    "index.html": "/przedszkole/index.html",
+    "main.2cbc5eea.css.map": "/przedszkole/static/css/main.2cbc5eea.css.map",
+    "main.af1915b2.js.map": "/przedszkole/static/js/main.af1915b2.js.map",
+    "787.00a70a93.chunk.js.map": "/przedszkole/static/js/787.00a70a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cbc5eea.css",
+    "static/js/main.af1915b2.js"
+  ]
+}
